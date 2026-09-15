@@ -47,6 +47,6 @@ my_name = "Aditya"
 # for i in listt:
 # print(i)
 # Job k regarding form application
-name OR emp_name
-salary OR emp_salary
-age OR emp_age
+# name OR emp_name
+# salary OR emp_salary
+# age OR emp_age
